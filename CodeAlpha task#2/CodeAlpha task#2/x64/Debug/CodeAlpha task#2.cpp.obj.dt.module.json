@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CodeAlpha task#2\\x64\\Debug\\CodeAlpha task#2.obj",
+            "outputs": [
+                "CodeAlpha task#2\\x64\\Debug\\CodeAlpha task#2.cpp.obj.dt.module.json",
+                "CodeAlpha task#2\\x64\\Debug\\CodeAlpha task#2.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
